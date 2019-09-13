@@ -1,0 +1,3 @@
+targets:
+  ConferencePlanner: shared-eu-west-1/ck0h9fqs12m0h01486ga5saln
+  default: ConferencePlanner
